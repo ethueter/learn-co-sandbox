@@ -7,7 +7,7 @@ first_name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(first_name)
   first_name.each do |list_name|
-  puts "Hello, my name is " + name + "."
+  puts "Hello, my name is " + list_name + "."
   end
 end
 
