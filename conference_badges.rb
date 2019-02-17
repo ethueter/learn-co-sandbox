@@ -19,7 +19,7 @@ def assign_rooms(rooms, index)
     puts "Hello " + first_name[0] + "! You'll be assigned room " + room + "!"
   end
 end
-assign_rooms
+assign_rooms(rooms, 0)
 
 
   
