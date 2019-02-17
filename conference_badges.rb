@@ -26,11 +26,7 @@ hello_name(first_name)
 def assign_room(room, index)
   assignments =[]
   first_name.each do |room|
-    assignments.push(part1[index] + "You will be assigned room " + room + "!")
-  end
-  puts assignments.inspect
-end
-
+    assignments.push(part1[index] + "You will be assigned roo
 assign_room(rooms, 0)
 
     
