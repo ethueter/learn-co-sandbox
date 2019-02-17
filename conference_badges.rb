@@ -14,7 +14,12 @@ batch_badge_creator(first_name)
 
 rooms = [1, 2, 3, 4, 5, 6, 7]
 
-def hello_name(first_name)
+def assign_room(rooms, index)
+  rooms.each do |assignments|
+    puts "Hello " + first_name[0] + "1 You'll be assinged to room " + assignment + "!"
+  end
+end
+
 assign_room(rooms, 0)
 
     
