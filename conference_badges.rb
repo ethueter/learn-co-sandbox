@@ -10,7 +10,7 @@ def batch_badge_creator(first_name)
   first_name.each do |list_name|
     badge_wording.push(badge_maker(list_name))
   end
-  puts batch_badge_creator
+  puts batch_badge_creator.inspect
 end
 
 
