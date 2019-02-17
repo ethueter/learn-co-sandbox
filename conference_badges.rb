@@ -14,7 +14,13 @@ batch_badge_creator(first_name)
 
 rooms = [1, 2, 3, 4, 5, 6, 7]
 
-def 
+def hello_name(first_name)
+  part1 =[]
+  first_name.each do |list_name|
+  part1.push("Hello, " + list_name + "!")
+  end
+end
+batch_badge_creator(first_name)
 
 
   
