@@ -3,4 +3,7 @@ def badge_maker(name)
 end
 badge_maker("Arel")
 
-def badge
+first_name = []
+
+def batch_badge_creator(first_name)
+  
