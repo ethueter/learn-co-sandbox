@@ -31,7 +31,7 @@ def assign_room(room, index)
   puts assignments.inspect
 end
 
-assign_room(room, 0)
+assign_room(rooms, 0)
 
     
 
