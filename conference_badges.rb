@@ -10,7 +10,7 @@ def batch_badge_creator(first_name)
   puts "Hello, my name is " + list_name + "."
   end
 end
-batch_badge_creator
+batch_badge_creator(first_name)
 
   
 
