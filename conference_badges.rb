@@ -23,6 +23,11 @@ def hello_name(first_name)
 end
 hello_name(first_name)
 
+def assign_room(room, index)
+  assignments =[]
+  part1.each do |room|
+    
+
 
   
 
