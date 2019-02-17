@@ -22,6 +22,9 @@ def assign_room(rooms, index)
 end
 
 assign_room(rooms, 0)
+# I got hung up on pulling in the data from a 2nd array for this last one.
+
+#so i really wish i would have spent the last 2 weeks studing ruby and not javascript 
 
     
 
