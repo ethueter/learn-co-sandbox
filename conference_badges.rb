@@ -19,8 +19,9 @@ def hello_name(first_name)
   first_name.each do |list_name|
   part1.push("Hello, " + list_name + "!")
   end
+  puts part1.inspect
 end
-batch_badge_creator(first_name)
+hello_name(first_name)
 
 
   
