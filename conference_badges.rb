@@ -15,18 +15,6 @@ batch_badge_creator(first_name)
 rooms = [1, 2, 3, 4, 5, 6, 7]
 
 def hello_name(first_name)
-  part1 =[]
-  first_name.each do |list_name|
-  part1.push("Hello, " + list_name + "!")
-  end
-  puts part1.inspect
-end
-hello_name(first_name)
-
-def assign_room(room, index)
-  assignments =[]
-  first_name.each do |room|
-    assignments.push(part1[index] + "You will be assigned roo
 assign_room(rooms, 0)
 
     
