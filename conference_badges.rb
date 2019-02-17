@@ -7,6 +7,8 @@ first_name = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
 
 def batch_badge_creator(first_name)
   badge_wording = []
+  first_name.each do |list_name|
+    badge_wording.push(badge_maker(list_name))
   
 
     
