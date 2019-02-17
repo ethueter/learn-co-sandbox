@@ -16,7 +16,11 @@ rooms = [1, 2, 3, 4, 5, 6, 7]
 
 def assign_rooms(rooms, index)
   first_name.each do |room|
-    puts "Hello " + 
+    puts "Hello " + first_name[0] + "! You'll be assigned room " + room + "!"
+  end
+end
+assign_rooms
+
 
   
 
